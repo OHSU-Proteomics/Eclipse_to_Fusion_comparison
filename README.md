@@ -31,6 +31,10 @@ Analysis of an 11-plex TMT labeled human platelet sample from OHSU Proteomics Co
 _Slide 2_<br />
 The human platelet samples were prepared by Dr. Ashok Reddy and analyzed at Thermo by Joshua Nicklay. The new data was collected on an Eclipse Oribtrap Tribrid using the SPS MS3 method in combination with real-time search (RTS) and with a FAIMS front end. Sample loading and a 2-hour reverse phase gradient was used to mimic original data generated at OHSU using our older Thermo Fusion Tribrid instrument. The new data was a simple SPS MS3 run (similar to what the Fusion can do). There was also a run using the real time search acquisition mode (RTS) to see if better sensitivity could be obtained. Both plain SPS MS3 and RTS SPS MS3 were also done with and without front end FAIMS filtering (that data is not presented here).
 
+> [first RTS paper](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00899) Erickson, B.K., Mintseris, J., Schweppe, D.K., Navarrete-Perea, J., Erickson, A.R., Nusinow, D.P., Paulo, J.A. and Gygi, S.P., 2019. Active instrument engagement combined with a real-time database search for improved performance of sample multiplexing workflows. Journal of proteome research, 18(3), pp.1299-1306.
+
+> [second RTS paper](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00860) Devin K. Schweppe, Jimmy K. Eng, Qing Yu, Derek Bailey, Ramin Rad, Jose Navarrete-Perea, Edward L. Huttlin, Brian K. Erickson, Joao A. Paulo, and Steven P. Gygi, 2020. Full-Featured, Real-Time Database Searching Platform Enables Fast and Accurate Multiplexed Quantitative Proteomics. Journal of proteome research, 19(3), pp.2026−2034.
+
 ---
 
 ![Slide 3](images/Slide3.png)
